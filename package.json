@@ -1,34 +1,35 @@
 {
-  "name": "dhad-hackers",
-  "displayName": "Dhad Hackers",
-  "description": " Dhad Hackers vscode theme",
-  "version": "1.1.0",
-  "publisher": "dhadhackers",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dhad-hackers/vscode-hackers-theme.git"
-  },
-  "keywords": [
-    "theme",
-    "dark theme",
-    "dhad hackers",
-    "hackers theme",
-    "vscode theme",
-    "vscode dark theme"
-  ],
-  "engines": {
-    "vscode": "^1.120.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "DHAD Hackers Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/DHAD Hackers Theme-color-theme.json"
-      }
-    ]
-  }
+        "name": "dhad-hackers",
+        "displayName": "Dhad Hackers",
+        "description": " Dhad Hackers vscode theme",
+        "version": "1.1.0",
+        "publisher": "dhadhackers",
+        "icon": "images/extension-logo.png",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/dhad-hackers/vscode-hackers-theme.git"
+        },
+        "keywords": [
+                "theme",
+                "dark theme",
+                "dhad hackers",
+                "hackers theme",
+                "vscode theme",
+                "vscode dark theme"
+        ],
+        "engines": {
+                "vscode": "^1.120.0"
+        },
+        "categories": [
+                "Themes"
+        ],
+        "contributes": {
+                "themes": [
+                        {
+                                "label": "DHAD Hackers Theme",
+                                "uiTheme": "vs-dark",
+                                "path": "./themes/DHAD Hackers Theme-color-theme.json"
+                        }
+                ]
+        }
 }
