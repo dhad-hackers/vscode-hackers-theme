@@ -4,7 +4,7 @@
         "description": " Dhad Hackers vscode theme",
         "version": "1.2.0",
         "publisher": "dhadhackers",
-        "icon": "images/extension-logo.png",
+        "icon": "images/hackers-logo.png",
         "repository": {
                 "type": "git",
                 "url": "https://github.com/dhad-hackers/vscode-hackers-theme.git"
