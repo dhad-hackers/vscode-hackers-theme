@@ -1,0 +1,21 @@
+{
+  "name": "dhad-hackers",
+  "displayName": "Dhad Hackers",
+  "description": " Dhad Hackers theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DHAD Hackers Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DHAD Hackers Theme-color-theme.json"
+      }
+    ]
+  }
+}
